@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning JavaScript, HTML, CSS, jQuery and Bootstarp.
 - 💞️ I’m looking to collaborate on TPI.
-- 📫 How to reach me...
+- 📫 I am fond of watching video about codding.
 
 <!---
 LITTLE-JAMMY/LITTLE-JAMMY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
